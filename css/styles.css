@@ -1,0 +1,54 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Noto Sans KR', sans-serif;
+  }
+  
+  body {
+    margin: 0;
+    background-color: #1BBC9B;
+  }
+  
+  .login-form {
+    background-color: #EEEFF1;
+    margin: auto;
+    padding: 20px;
+    border-radius: 5px;
+    width: 300px;
+    margin-top: 50px;
+  }
+  
+  .text-field {
+    border: none;
+    border-radius: 5px;
+    width: 260px;
+    padding: 10px;
+    font-size: 14px;
+    margin-bottom: 10px;
+  }
+  
+  .submit-btn {
+    border: none;
+    color: white;
+    font-size: 14px;
+    background-color: #1BBC9B;
+    margin-bottom: 30px;
+    width: 260px;
+    border-radius: 5px;
+    padding: 10px;
+  }
+  
+  /* 마우스 오버 버튼 */
+  .submit-btn:hover {
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,0.50);
+  }
+
+  .links {
+    text-decoration: none;
+    text-align: center;
+  }
+  
+  .links a {
+    font-size: 12px;
+    color: #9B9B9B;
+    cen
+  }
